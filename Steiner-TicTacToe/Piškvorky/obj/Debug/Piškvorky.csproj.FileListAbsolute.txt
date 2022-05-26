@@ -1,0 +1,44 @@
+F:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.exe.config
+F:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.exe
+F:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.pdb
+F:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.csprojResolveAssemblyReference.cache
+F:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.tictactoe.resources
+F:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.Properties.Resources.resources
+F:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.csproj.GenerateResource.Cache
+F:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.csproj.CoreCompileInputs.cache
+F:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.exe
+F:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.pdb
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.exe.config
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.exe
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.pdb
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.csprojAssemblyReference.cache
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.tictactoe.resources
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.Properties.Resources.resources
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.csproj.GenerateResource.cache
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.csproj.CoreCompileInputs.cache
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.exe
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.pdb
+F:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.f2.resources
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.f2.resources
+W:\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.f3.resources
+K:\main\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.exe.config
+K:\main\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.exe
+K:\main\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.pdb
+K:\main\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.csprojAssemblyReference.cache
+K:\main\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.tictactoe.resources
+K:\main\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.f2.resources
+K:\main\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.f3.resources
+K:\main\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.Properties.Resources.resources
+K:\main\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.csproj.GenerateResource.cache
+K:\main\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.exe
+K:\main\C#\Windows forms\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.pdb
+C:\Users\Samo\Desktop\c#\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.csprojAssemblyReference.cache
+C:\Users\Samo\Desktop\c#\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.tictactoe.resources
+C:\Users\Samo\Desktop\c#\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.f2.resources
+C:\Users\Samo\Desktop\c#\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.Properties.Resources.resources
+C:\Users\Samo\Desktop\c#\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.csproj.GenerateResource.cache
+C:\Users\Samo\Desktop\c#\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.exe
+C:\Users\Samo\Desktop\c#\Piškvorky\Piškvorky\Piškvorky\obj\Debug\Piškvorky.pdb
+C:\Users\Samo\Desktop\c#\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.exe.config
+C:\Users\Samo\Desktop\c#\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.exe
+C:\Users\Samo\Desktop\c#\Piškvorky\Piškvorky\Piškvorky\bin\Debug\Piškvorky.pdb
